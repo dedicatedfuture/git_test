@@ -1,0 +1,1 @@
+This is a practice project as I work through the Odin Project. I have used git before, this is just to see if there are any small nuances that I missed before. 
